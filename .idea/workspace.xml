@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4745fd1-815f-4a17-9d61-cf672c2acd65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vue_track_tabs.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/unit/jest.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/unit/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/unit/specs/HelloWorld.spec.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -176,12 +137,20 @@
       <updated>1515401355878</updated>
       <workItem from="1515401357450" duration="993000" />
       <workItem from="1515402920858" duration="268000" />
-      <workItem from="1515403225399" duration="3108000" />
+      <workItem from="1515403225399" duration="3165000" />
     </task>
+    <task id="LOCAL-00001" summary="init the app using vue-cli">
+      <created>1515406397138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515406397138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4369000" />
+    <option name="totallyTimeSpent" value="4426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
@@ -209,6 +178,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init the app using vue-cli" />
+    <option name="LAST_COMMIT_MESSAGE" value="init the app using vue-cli" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
