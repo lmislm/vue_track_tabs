@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lmislm/vue_track_tabs/issues"
   },
-  "homepage": "https://github.com/lmislm/vue_track_tabs#readme"
+  "homepage": "https://github.com/lmislm/vue_track_tabs#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
 }

@@ -1,17 +1,17 @@
-console.log('hello')
 const express = require('express')
 const bodyParse = require('body-parser') //process JSON data easily
 const cors = require('cors')
 const morgan = require('morgan')
 
 const app = express()
-app.use(morgan('combine'))
+app.use(morgan('combined'))
 app.use(bodyParse.json())
 app.use(cors()) // security
 
-app.get('/status',(req,res) => {
+app.post('/register',(req,res) => {
     res.send({
-    message: 'hello world'
+        message: `hello ${req.body.email}! Your users was registered!`   //注意
+
     })
 })
 
