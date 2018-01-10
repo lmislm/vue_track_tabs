@@ -1,0 +1,20 @@
+{
+  "name": "vue_track_tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmislm/vue_track_tabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmislm/vue_track_tabs/issues"
+  },
+  "homepage": "https://github.com/lmislm/vue_track_tabs#readme"
+}
