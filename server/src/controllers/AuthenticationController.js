@@ -7,7 +7,7 @@ module.exports = {
         res.send(user.toJSON())
     } catch (err) {
         res.status(400).send({
-            error: 'this email account is already in use.'
+            error: '这个邮箱已经被使用了'
         })
     }
     }
