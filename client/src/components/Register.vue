@@ -6,18 +6,14 @@
           <v-toolbar-title>登录</v-toolbar-title>
         </v-toolbar>
         <div class="pl-4 pr-4 pt-2 pb-2">
-          <input
-            type="email"
-            name="email"
-            v-model="email"
-            placeholder="email">
-          <br>
-          <input
-            type="password"
-            name="password"
-            v-model="password"
-            placeholder="password"
-          >
+          <v-text-field
+            label="输入邮箱"
+            v-model="email">
+            ></v-text-field>
+          <v-text-field
+            label="输入密码"
+            v-model="password">
+            ></v-text-field>
           <br>
           <div class="error" v-html="error"/>
           <br>
@@ -61,9 +57,9 @@
       }
     },
     mounted () {
-      setTimeout(() => {
-        this.email = 'hello email'
-      }, 2000)
+//      setTimeout(() => {
+//        this.email = 'hello email'
+//      }, 2000)
     }
   }
 </script>
