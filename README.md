@@ -1,9 +1,15 @@
 > git clone
 
 > cd client
-+ cnpm install
-> cd server 
-+ cnpm install 
 
->cd client
-+ npm run dev
+* npm install
+  > cd server
+* npm install
+
+> cd client
+
+* npm run dev
+
+> cd server
+
+* npm start
