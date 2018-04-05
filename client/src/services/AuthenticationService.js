@@ -1,10 +1,11 @@
-import Api from '@/services/Api'
+/* eslint-disable*/
+import Api from '@/services/Api';
 
-export default{
-  register (credentials) {
-    return Api().post('register', credentials)
+export default {
+  register(credentials) {
+    return Api().post('register', credentials);
   }
-}
+};
 //
 // AuthorizationService.register({
 //   email: 'testing@qq.com',
